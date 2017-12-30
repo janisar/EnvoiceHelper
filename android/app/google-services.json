@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420802742789",
+    "project_id": "optical-figure-185217"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420802742789:android:c8acc62fb9af4919",
+        "android_client_info": {
+          "package_name": "com.envoicehelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420802742789-knok89q33o51f3ap37jmmvmihs4d92mn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "420802742789-fft78ppaqc1tmovbh0remo2tltr83956.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.envoicehelper",
+            "certificate_hash": "e885297e55854db2c0f2ec1026af668205532aca"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsfNyYKSkGgEcpQDBDsEeDWhUrvOaGao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
